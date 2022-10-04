@@ -17,9 +17,8 @@
 				<th>NAMA</th>
 				<th>GENDER</th>
 				<th>STATUS</th>
-                <th>NO HP</th>
-                <th>ALAMAT</th>
-				</th>
+                		<th>NO HP</th>
+                		<th>ALAMAT</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -30,9 +29,8 @@
 				<td>Dinny</td>
 				<td>Perempuan</td>
 				<td>Mahasiswa</td>
-                <td>089504227812</td>
-                <td>Jl Tipar Timur</td>
-                </td>
+                		<td>089504227812</td>
+                		<td>Jl Tipar Timur</td>
 			</tr>
 			<tr>
 				<tr align="center">
@@ -41,20 +39,18 @@
 				<td>Wida</td>
 				<td>Perempuan</td>
 				<td>Mahasiswa</td>
-                <td>089789990</td>
-                <td>Jl Kav Tipar</td>
-                </td>
-			</tr>
+                		<td>089789990</td>
+                		<td>Jl Kav Tipar</td>
+                	</tr>
 			<tr>
 				<tr align="center">
 				<td>3</td>
 				<td>2112011043</td>
 				<td>Dea</td>
 				<td>Perempuan</td>
-                <td>Mahasiswa</td>
+                		<td>Mahasiswa</td>
 				<td>0897890999</td>
-                <td>Jl Tipar Kandang</td>
-                </td>
+               			<td>Jl Tipar Kandang</td>
 			</tr>
 		</tbody>
 	</table>
